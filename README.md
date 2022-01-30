@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elmir.
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Software Development.
 - 🌱 I’m currently learning Java and Spring framework.
 - 💞️ I’m looking to collaborate on interesting projects.
 - 📫 How to reach me: elmir.ahadov@yahoo.com
